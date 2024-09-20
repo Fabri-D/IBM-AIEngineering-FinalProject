@@ -1,6 +1,6 @@
 # AI Capstone Project: Concrete Crack Detection Using Deep Learning
 
-This project is part of the **AI Capstone Project with Deep Learning**, which serves as the final project of the IBM AI Engineering Professional Certification through Coursera. In this project, I applied my knowledge and expertise in deep learning to solve a real-world challenge: detecting faults, cracks, or ruptures in concrete structures using image classification techniques.
+This project is part of the **AI Capstone Project with Deep Learning**, which serves as the final project of the IBM AI Engineering Professional Certification through Coursera. In this project, I applied my knowledge in deep learning to solve a real-world challenge: detecting faults, cracks, or ruptures in concrete structures using image classification techniques.
 
 ## Project Overview
 
