@@ -53,3 +53,9 @@ Through this project, I developed and tested a deep learning model that detects 
 ## Conclusion
 
 This project demonstrates how deep learning can be applied to real-world problems, such as fault detection in critical infrastructure. The model shows promising results and could be further refined for practical deployment.
+
+## Dataset Notice
+
+The dataset used for training was provided for educational purposes through the IBM AI Engineering Professional Certificate.
+
+The dataset itself is not included or redistributed in this repository.
